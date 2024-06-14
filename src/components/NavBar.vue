@@ -11,12 +11,6 @@ import { RouterLink, RouterView } from 'vue-router'
             <RouterLink to="/" class="nav-link">Home</RouterLink>
           </li>
           <li class="nav-item">
-            <RouterLink to="/websocket" class="nav-link">Websocket</RouterLink>
-          </li>
-          <li class="nav-item">
-            <RouterLink to="/albums" class="nav-link">Albums</RouterLink>
-          </li>
-          <li class="nav-item">
             <RouterLink to="/admin" class="nav-link">AdminPanel</RouterLink>
           </li>
         </ul>
